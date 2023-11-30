@@ -1,0 +1,15 @@
+.container1 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.container2 {
+  display: flex;
+  justify-content: first baseline;
+  align-items: center;
+}
+
+.left {
+  margin-right: 20px;
+}
